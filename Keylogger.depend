@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1560371217 source:e:\projects\keylogger_updated\main.cpp
+	<iostream>
+	<windows.h>
+	"KeybHook.h"
+
+1560371217 e:\projects\keylogger_updated\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1560370680 e:\projects\keylogger_updated\keyconstants.h
+	<map>
+	<string>
+
+1560370680 e:\projects\keylogger_updated\timer.h
+	<thread>
+	<chrono>
+
+1560371433 e:\projects\keylogger_updated\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1560370680 e:\projects\keylogger_updated\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1560370680 e:\projects\keylogger_updated\helper.h
+	<ctime>
+	<string>
+	<sstream>
+
+1560370680 e:\projects\keylogger_updated\base64.h
+	<vector>
+	<string>
+
